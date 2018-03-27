@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+#do not track these files
+node_modules
+.DS_Store
+.env
