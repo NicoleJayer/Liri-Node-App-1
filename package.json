@@ -4,7 +4,9 @@
   "description": "creating _Language_ Interpretation and Recognition Interface",
   "main": "index.js",
   "dependencies": {
-    "dotenv": "^5.0.1"
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
   },
   "devDependencies": {},
   "scripts": {
