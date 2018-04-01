@@ -123,7 +123,7 @@ function myTweets() {
     // This block of code creates a file called "random.txt"
     // It also adds the spotify command
     function doWhatItSays() {
-        fs.writeFile("random.txt", 'spotify-this-song,"I Want it That Way"', function (err) {
+        fs.writeFile("random.txt", 'spotify-this-song,"The Sign"', function (err) {
 
             // If the code experiences any errors it will log the error to the console.
             if (err) {
@@ -131,6 +131,6 @@ function myTweets() {
             }
 
             // Otherwise, it will print:
-            console.log("Rock out to 'I Want It That Way'!");
+            console.log("Rock out to 'The Sign'!");
         });
     };
