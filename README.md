@@ -15,7 +15,7 @@ This app uses JavaScript, Node.js and 4 NPM packages: Request, Dotenv, Twitter, 
 
 Files Used | Their Role in the App
 ------------ | -------------
-![files in repo](https://green64.github.io/Liri-Node-App/files_used.png) | * node modules includes the 4 NPM packages
+![files in repo](https://green64.github.io/Liri-Node-App/files_capture.png) | * node modules includes the 4 NPM packages
 &nbsp; | * .env is an invisible file that stores my Twitter and Spotify keys
 &nbsp; | * .gitignore includes a   ```#do not track these files``` line to ensure .env is invisible
 &nbsp; | * keys.js exports the Spotify and Twitter keys, which are required in liri.js
@@ -61,4 +61,4 @@ I coded a switch with "cases" and corresponding functions to create the four sep
 
 Because this is a command-line app, there's not an HTML page where you can watch it in action. In the video below, I walk through the main .js file and demonstrate the app in action. 
 
-:video_camera: [Video Walkthrough](https://green64.github.io/Liri-Node-App/liri-node-app.mov)
+:video_camera: adding a video as soon as I discover a utility that creates a video file size Github will accept. 
