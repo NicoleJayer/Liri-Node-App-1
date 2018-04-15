@@ -15,7 +15,7 @@ This app uses JavaScript, Node.js and 4 NPM packages: Request, Dotenv, Twitter, 
 
 Files Used | Their Role in the App
 ------------ | -------------
-![files in repo](https://green64.github.io/Liri-Node-App/files_capture.png) | * node modules includes the 4 NPM packages
+![files in repo](https://green64.github.io/Liri-Node-App/capture.png) | * node modules includes the 4 NPM packages
 &nbsp; | * .env is an invisible file that stores my Twitter and Spotify keys
 &nbsp; | * .gitignore includes a   ```#do not track these files``` line to ensure .env is invisible
 &nbsp; | * keys.js exports the Spotify and Twitter keys, which are required in liri.js
