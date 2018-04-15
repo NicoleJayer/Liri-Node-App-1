@@ -15,16 +15,12 @@ This app uses JavaScript, Node.js and 4 NPM packages: Request, Dotenv, Twitter, 
 
 Files Used | Their Role in the App
 ------------ | -------------
-![files in repo](https://green64.github.io/Liri-Node-App/capture.png) | * node modules includes the 4 NPM packages
-&nbsp; | * .env is an invisible file that stores my Twitter and Spotify keys
-&nbsp; | * .gitignore includes a   ```#do not track these files``` line to ensure .env is invisible
-&nbsp; | * keys.js exports the Spotify and Twitter keys, which are required in liri.js
-
-
-
-
-
- [Video Walkthrough](https://green64.github.io/Liri-Node-App/liri-node-app.mov)
+node_modules | node modules includes the 4 NPM packages
+.env |  an invisible file that stores my Twitter and Spotify keys
+.gitignore |  another invisible file that includes a   ```#do not track these files``` to hide ensure .env
+keys.js | exports the Spotify and Twitter keys, which are required in liri.js
+liri.js | the central file that includes all variables, functions and commands
+random.txt | the command do-what-it-says uses ```fs.writeFile``` to write to random.txt
 
 
 ***Code excerpts***
