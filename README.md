@@ -57,4 +57,5 @@ I coded a switch with "cases" and corresponding functions to create the four sep
 
 Because this is a command-line app, there's not an HTML page where you can watch it in action. In the video below, I walk through the main .js file and demonstrate the app in action. 
 
-:video_camera: adding a video as soon as I discover a utility that creates a video file size Github will accept. 
+:video_camera: [Liri app walkthrough](https://youtu.be/-Xj-XAcZ5H4)
+
