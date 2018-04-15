@@ -1,4 +1,4 @@
-# Liri-Hangman-Game
+# Liri-Node-App
 
 [Liri-Node-App](https://green64.github.io/Liri-Node-App/)
 
